@@ -1,7 +1,10 @@
 # NoteKeeper
 
-![NoteKeeper Screenshot](public/screenshots/Screenshot.png)
-
+<p align="center">
+  <a href="#">
+    <img src="Screenshot.png" height="200vh" style="border-radius:1rem" alt="Demo Landing Page">
+  </a>
+</p>
 A modern, responsive note-taking application inspired by Google Keep, built with React and TypeScript.
 
 ## Features
